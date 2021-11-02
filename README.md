@@ -1,2 +1,2 @@
 # twitterblog
-a blog that look like twitter
+a blog that look like twitter built with python django
